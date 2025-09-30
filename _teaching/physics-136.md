@@ -2,7 +2,7 @@
 title: "Physics 136 (Life Sciences Lab I)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/physics-136
+permalink: false
 venue: "Physics Department, University of Michigan"
 date: 2020-01-01
 ---
