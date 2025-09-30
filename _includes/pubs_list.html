@@ -9,7 +9,7 @@
       {% if post.pages %} , {{ post.pages }} {% endif %}
       {% if post.year %} ({{ post.year }}) {% endif %}
       {% if post.link %} <a href="{{ post.link }}">[link]</a>{% endif %}
-      {% if post.note %} [<strong> {{ post.note }} </strong>] {% endif %}.
+      {% if post.note %} [<strong>{{ post.note }}</strong>]{% endif %}.
     </li>
   {% endfor %}
 </ol>
