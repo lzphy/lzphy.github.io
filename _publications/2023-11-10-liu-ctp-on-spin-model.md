@@ -10,5 +10,5 @@ pages: 115702
 arxiv:
 doi:
 link: https://iopscience.iop.org/article/10.1088/1572-9494/acfbdf/meta
-note: \*equal contribution
+note: "*: equal contribution"
 ---
