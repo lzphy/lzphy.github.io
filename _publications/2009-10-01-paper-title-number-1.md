@@ -1,7 +1,8 @@
 ---
+date: 2024-12-12
 title: Minimal pole representation and analytic continuation of matrix-valued correlation functions
 authors: >-
-  **Lei Zhang**, Yang Yu, Emanuel Gull
+  **Lei Zhang**, Yang Yu & Emanuel Gull
 year: 2024
 journal: Phys. Rev. B
 volume: 110
