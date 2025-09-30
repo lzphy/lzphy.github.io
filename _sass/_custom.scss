@@ -1,0 +1,7 @@
+/* Custom overrides */
+
+.teaching-title {
+  color: var(--global-link-color);  /* Matches the default link color (#2f7f93) */
+  font-weight: 600;                 /* Optional: keeps it bold like a link */
+  text-decoration: none;            /* Ensures no underline */
+}
