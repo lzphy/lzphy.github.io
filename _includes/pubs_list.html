@@ -1,5 +1,5 @@
 <ol class="pubs">
-  {% assign pubs = site.publications | sort: 'year' | reverse %}
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
   {% for post in pubs %}
     <li>
       {% if post.authors %} {{ post.authors | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' }}, {% endif %}
