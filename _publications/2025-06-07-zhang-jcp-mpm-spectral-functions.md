@@ -10,5 +10,4 @@ pages: 214111
 arxiv: 2504.01163
 doi: 10.1063/5.0273763
 link: https://doi.org/10.1063/5.0273763
-note: Special Topic — Yijing Yan Festschrift
 ---
