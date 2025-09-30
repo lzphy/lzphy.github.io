@@ -1,0 +1,22 @@
+<ol class="pubs">
+  {% assign pubs = site.publications | sort: 'year' | reverse %}
+  {% for post in pubs %}
+    <li>
+      {% if post.authors %}
+        <span class="pub-authors">
+          {{ post.authors | markdownify | replace: '<p>','' | replace: '</p>','' }}
+        </span>.
+      {% endif %}
+      {% if post.year %} ({{ post.year }}){% endif %}.
+      <span class="pub-title"><strong>{{ post.title }}</strong></span>.
+      {% if post.journal %}
+        <em>{{ post.journal }}</em>{% if post.volume %} {{ post.volume }}{% endif %}{% if post.number %} ({{ post.number }}){% endif %}{% if post.pages %}: {{ post.pages }}{% endif %}.
+      {% endif %}
+      {% if post.arxiv %} arXiv:{{ post.arxiv }}.{% endif %}
+      {% if post.doi %} <a href="https://doi.org/{{ post.doi }}">[doi]</a>{% endif %}
+      {% if post.pdf %} <a href="{{ post.pdf | relative_url }}">[pdf]</a>{% endif %}
+      {% if post.slides %} <a href="{{ post.slides | relative_url }}">[slides]</a>{% endif %}
+      {% if post.link %} <a href="{{ post.link }}">[link]</a>{% endif %}
+    </li>
+  {% endfor %}
+</ol>
