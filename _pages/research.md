@@ -8,10 +8,10 @@ author_profile: true
 Here are some selected projects I have worked on.
 
 ## Controlled analytic continuation of Matsubara correlation functions using minimal information principle
-<div style="text-align: left;">
-  <img src="/images/mpm1.png" width = "40%">
-</div><div style="text-align: left;">
-  <img src="/images/mpm2.png" width = "40%">
+<div style="width: 80%; margin: 0 auto; display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/mpm1.png" style="width: 33%; object-fit: cover;">
+  <img src="/images/mpm2.png" style="width: 33%; object-fit: cover;">
+  <img src="/images/mpm3.png" style="width: 33%; object-fit: cover;">
 </div>
 
 Analytic continuation is a crucial step in the simulation of finite-temperature field theories, where numerically obtained Matsubara data is extended to the real frequency axis for physical interpretation. However, numerical analytic continuation is an ill-posed problem, as uncertainties in the Matsubara axis are exponentially amplified. In this work, we introduce a systematic and controlled approach that approximates any Matsubara function---whether scalar- or matrix-valued---using a minimal pole representation within a predefined precision. We demonstrate systematic convergence to the exact spectral function on the real axis as a function of our control parameter across various physically relevant scenarios. Additionally, we compare results for real material systems against state-of-the-art methodologies. Our approach is robust against noise, offering a reliable path for analytic continuation in many-body theory, while providing direct access to the analytic structure of functions for deeper theoretical interpretation of physical properties.
