@@ -8,9 +8,10 @@ author_profile: true
 Here are some selected projects I have worked on.
 
 ## Minimal pole representation for spectral functions
-<div style="width: 80%; display: flex; justify-content: flex-start; gap: 10px;">
-  <img src="/images/mpm_rf1.png" style="width: 48%; object-fit: contain;">
-  <img src="/images/mpm_rf2.png" style="width: 48%; object-fit: contain;">
+<div style="width: 90%; display: flex; justify-content: flex-start; gap: 10px;">
+  <img src="/images/mpm_rf1.png" style="width: 30%; object-fit: contain;">
+  <img src="/images/mpm_rf2.png" style="width: 30%; object-fit: contain;">
+  <img src="/images/mpm_rf3.png" style="width: 30%; object-fit: contain;">
 </div>
 
 Representing spectral densities, real-frequency, and real-time Green’s functions of continuous systems by a small discrete set of complex poles is a ubiquitous problem in condensed matter physics, with applications ranging from quantum transport simulations to the simulation of strongly correlated electron systems. This paper introduces a method for obtaining a compact, approximate representation of these functions, based on their parameterization on the real axis and a given approximate precision. We show applications to typical spectral functions and results for structured and unstructured correlation functions of model systems.
