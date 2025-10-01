@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Notes:
-1. 123
+1. <a href="/files/paper1.pdf">Download Slides</a>
 2. 123
 3. 123
 
