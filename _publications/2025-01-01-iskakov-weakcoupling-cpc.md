@@ -1,5 +1,5 @@
 ---
-title: Green/WeakCoupling — Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids
+title: "Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids"
 authors: >-
   Sergei Iskakov, Chia-Nan Yeh, Pavel Pokhilko, Yang Yu, **Lei Zhang**, Gaurav Harsha,
   Vibin Abraham, Ming Wen, Munkhorgil Wang, Jacob Adamski, Tianran Chen, Emanuel Gull & Dominika Zgid
