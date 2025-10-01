@@ -8,7 +8,7 @@ author_profile: true
 Here are some selected projects I have worked on.
 
 ## Controlled analytic continuation of Matsubara correlation functions using minimal information principle
-<div style="width: 80%; margin: 0 auto; display: flex; justify-content: left; gap: 10px;">
+<div style="width: 80%; display: flex; justify-content: flex-start; gap: 10px;">
   <img src="/images/mpm1.png" style="width: 33%; object-fit: cover;">
   <img src="/images/mpm2.png" style="width: 33%; object-fit: cover;">
   <img src="/images/mpm3.png" style="width: 33%; object-fit: cover;">
