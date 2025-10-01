@@ -5,7 +5,7 @@
       {% if post.authors %} {{ post.authors | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' }}, {% endif %}
       {% if post.title %} <em>{{ post.title }}</em>, {% endif %}
       {% if post.journal %} <u>{{ post.journal }}</u> {% endif %}
-      {% if post.volume %} {{ post.volume }} {% endif %}{% if post.pages %}, {{ post.pages }} {% endif %}
+      {% if post.volume %}{{ post.volume }}{% endif %}{% if post.pages %}, {{ post.pages }}{% endif %}
       {% if post.year %} ({{ post.year }}) {% endif %}
       {% if post.link %} <a href="{{ post.link }}">[link]</a>{% endif %}{% if post.note %} [<strong>{{ post.note }}</strong>]{% endif %}.
     </li>
