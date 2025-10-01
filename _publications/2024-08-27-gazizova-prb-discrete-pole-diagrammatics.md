@@ -1,5 +1,5 @@
 ---
-title: Feynman diagrammatics based on discrete pole representations — A path to renormalized perturbation theories
+title: "Feynman diagrammatics based on discrete pole representations: A path to renormalized perturbation theories"
 authors: >-
   Daria Gazizova, **Lei Zhang**, Emanuel Gull & J. P. F. LeBlanc
 year: 2024
