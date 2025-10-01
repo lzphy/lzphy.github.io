@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Selected research highlights:"
 permalink: /research/
 author_profile: true
 ---
-
-Here are some selected projects I have worked on.
 
 ## Minimal pole representation for spectral functions
 <div style="width: 90%; display: flex; justify-content: flex-start; gap: 10px;">
