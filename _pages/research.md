@@ -8,7 +8,7 @@ author_profile: true
 Here are some selected projects I have worked on.
 
 ## On-chip levitation
-<img src="/images/bio-photo.jpg" width = "70%">
+<img src="/images/loop_cluster.png" width = "70%">
 
 12345
 
