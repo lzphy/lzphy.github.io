@@ -17,6 +17,6 @@ author_profile: true
 3. Loop-Cluster algorithm <a href="/files/slides_LC.pdf">[slides]</a>
 
 ## Code:
-1. 123
+1. *MiniPole* library for the Minimal pole method <a href="https://github.com/Green-Phys/MiniPole">[link]</a> (Note: *PronyAC* library has been deprecated as it is a special case of *MiniPole*)
 2. Loop-Cluster algorithm on hypercubic lattices <a href="/files/LpCl_Cubic.zip">[zip]</a> and complete graphs <a href="/files/LpCl_CG.zip">[zip]</a>
 3. Cluster algorithms (Swendsen-Wang & Wolff) on hypercubic lattices <a href="/files/Cluster_Cubic.zip">[zip]</a> and complete graphs <a href="/files/Cluster_CG.zip">[zip]</a>
