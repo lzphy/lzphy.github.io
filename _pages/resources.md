@@ -18,5 +18,5 @@ author_profile: true
 
 ## Code:
 1. 123
-2. 123
-3. Swendsen-Wang algorithm [zip]
+2. Loop-Cluster algorithms on hypercubic lattices <a href="/files/LpCl_Cubic.zip">[zip]</a> and complete graphs <a href="/files/LpCl_CG.zip">[zip]</a>
+3. Cluster algorithms (Swendsen-Wang & Wolff) on hypercubic lattices <a href="/files/Cluster_Cubic.zip">[zip]</a> and complete graphs <a href="/files/Cluster_CG.zip">[zip]</a>
