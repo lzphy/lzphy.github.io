@@ -7,7 +7,7 @@ author_profile: true
 
 ## Notes:
 1. Hybridization expansion and NCA/OCA <a href="/files/notes_XCA.pdf">[pdf]</a>
-2. Matrix-valued ESPRIT
+2. Matrix-valued ESPRIT algorithm <a href="/files/notes_ESPRIT.pdf">[pdf]</a>
 3. to be added...
 
 ## Presentation:
