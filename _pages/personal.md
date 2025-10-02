@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-In my spare time, I enjoy playing table tennis and pickleball. I am also passionate about cooking and baking.
+In my spare time, I enjoy cooking, crafting, hiking, and playing table tennis and pickleball.
 
 ### Some of My Homemade Creations  
   <img src="/images/food1.png" style="width: 30%; object-fit: contain;"><img src="/images/food2.png" style="width: 30%; object-fit: contain;"><img src="/images/food3.png" style="width: 30%; object-fit: contain;">
