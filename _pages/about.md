@@ -13,4 +13,4 @@ Before joining the University of Michigan, I earned my bachelor's degree in Phys
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=znwC5ycAAAAJ&hl=en).
 
-*I am applying for postdoctoral positions starting in 2026 and would greatly appreciate any advice or opportunities.*
+Starting in the summer of 2026, I will join [Prof. Thomas Devereaux’s group](https://devereauxgroup.stanford.edu/) at Stanford University as a postdoctoral scholar.
