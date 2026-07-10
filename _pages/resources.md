@@ -5,11 +5,13 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Ph.D. Thesis:
+&emsp;Complex Pole Representation and Its Applications to Quantum Many-Body Problems <a href="/files/PhD_Thesis_LeiZhang.pdf">[pdf]</a>
+
 ## Notes:
 1. Hybridization expansion and NCA/OCA <a href="/files/notes_XCA.pdf">[pdf]</a>
 2. Matrix-valued ESPRIT algorithm <a href="/files/notes_ESPRIT.pdf">[pdf]</a>
 3. Loop-Cluster coupling and algorithm <a href="/files/notes_LC.pdf">[pdf]</a>
-4. More notes are to be added in the near future...
 
 ## Presentation:
 1. Minimal pole method for analytic continuation <a href="/files/slides_NAC.pdf">[slides]</a> <a href="/files/poster_NAC.pdf">[poster]</a>
