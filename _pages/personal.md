@@ -11,8 +11,8 @@ In my spare time, I enjoy cooking, crafting, hiking, and playing table tennis an
   <img src="/images/food1.png" style="width: 30%; object-fit: contain;"><img src="/images/food2.png" style="width: 30%; object-fit: contain;"><img src="/images/food3.png" style="width: 30%; object-fit: contain;">
   <img src="/images/food4.png" style="width: 30%; object-fit: contain;"><img src="/images/food5.png" style="width: 30%; object-fit: contain;"><img src="/images/food6.png" style="width: 30%; object-fit: contain;">
 
-### A transformable DodeKabutack made entirely out of binder clips
-  <img src="/images/craft1.png" style="width: 30%; object-fit: contain;"><img src="/images/craft2.png" style="width: 30%; object-fit: contain;">
+### Some crafts made entirely from binder clips
+  <img src="/images/craft1.png" style="width: 30%; object-fit: contain;"><img src="/images/craft2.png" style="width: 30%; object-fit: contain;"><img src="/images/craft3.png" style="width: 30%; object-fit: contain;">
 
 ### Little Pieces of My Adventures
   <img src="/images/scene1.png" style="width: 30%; object-fit: contain;"><img src="/images/scene2.png" style="width: 30%; object-fit: contain;"><img src="/images/scene3.png" style="width: 30%; object-fit: contain;">
