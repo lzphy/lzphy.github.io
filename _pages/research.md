@@ -14,7 +14,7 @@ This dissertation develops the complex pole representation as a unified framewor
 
 Reference: <strong>Lei Zhang</strong>, Ph.D. dissertation, University of Michigan, Ann Arbor, MI (2026) <a href="/files/PhD_Thesis_LeiZhang.pdf">[pdf]</a>.
 
-## Minimal pole representation for spectral functions
+## Minimal Pole Representation for Spectral Functions
 <div style="width: 90%; display: flex; justify-content: flex-start; gap: 10px;">
   <img src="/images/mpm_rf1.png" style="width: 30%; object-fit: contain;">
   <img src="/images/mpm_rf2.png" style="width: 30%; object-fit: contain;">
@@ -25,7 +25,7 @@ Representing spectral densities, real-frequency, and real-time Green’s functio
 
 Recommended citation: <strong>Lei Zhang</strong>, André Erpenbeck, Yang Yu & Emanuel Gull, <u>J. Chem. Phys.</u> 162, 214111 (2025) [[link]](https://doi.org/10.1063/5.0273763).
 
-## Controlled analytic continuation of Matsubara correlation functions using minimal information principle
+## Controlled Analytic Continuation of Matsubara Correlation Functions Using Minimal Information Principle
 <div style="width: 90%; display: flex; justify-content: flex-start; gap: 10px;">
   <img src="/images/mpm1.png" style="width: 30%; object-fit: contain;">
   <img src="/images/mpm2.png" style="width: 30%; object-fit: contain;">
