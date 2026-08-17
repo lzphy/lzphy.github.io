@@ -12,7 +12,7 @@ author_profile: true
 
 This dissertation develops the complex pole representation as a unified framework for quantum many-body simulations. By representing continuous spectral and correlation functions with a compact set of complex poles and weights while preserving their essential analytic structure, this work enables fast and reliable numerical techniques for analytic continuation, hybridization fitting, compact representation, and quantum impurity solvers, together with accompanying software implementations.
 
-Reference: <strong>Lei Zhang</strong>, Ph.D. dissertation, University of Michigan, Ann Arbor, MI (2026) <a href="/files/PhD_Thesis_LeiZhang.pdf">[pdf]</a>.
+Reference: Lei Zhang, Ph.D. dissertation, University of Michigan, Ann Arbor, MI (2026) <a href="/files/PhD_Thesis_LeiZhang.pdf">[pdf]</a>.
 
 ## Minimal Pole Representation for Spectral Functions
 <div style="width: 90%; display: flex; justify-content: flex-start; gap: 10px;">
